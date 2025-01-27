@@ -1,0 +1,1 @@
+# Predicting-Sticker-Sales-Kaggle-Competition
